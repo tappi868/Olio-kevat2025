@@ -1,19 +1,18 @@
 #include "game.h"
 Game::Game()
 {
-    maxNum;
     cout << "Anna suurin arvottava luku: ";
     cin >> maxNum;
     srand(time(0));
     randomNumber = rand() % maxNum;
+    cout << "Peli aloitettu " << maxNum << " on suurin mahdollinen numero";
 
 }
 
 Game::~Game()
 {
-    cout <<"Game destructor";
     printGameResults();
-
+    cout << "Peli lopetettu";
 }
 
 
@@ -27,7 +26,6 @@ void Game::printGameResults()
 
 void Game::play()
 {
-    playerGuess;
     numOfGuesses = 0;
     while (true){
         cout << "Yrtia arvata luku : " << endl;

@@ -1,0 +1,8 @@
+# ninja log v6
+13	297	7608309583186456	CMakeFiles/vk5_tht.dir/main.cpp.obj	8fcfffd3478c0e2c
+297	386	7608309586025108	vk5_tht.exe	6d28a5c860b90e21
+18	287	7608309583231510	CMakeFiles/vk5_tht.dir/seuraaja.cpp.obj	4613a727b6a958a0
+15	295	7608317668158202	CMakeFiles/vk5_tht.dir/main.cpp.obj	8fcfffd3478c0e2c
+20	317	7608317668193406	CMakeFiles/vk5_tht.dir/seuraaja.cpp.obj	4613a727b6a958a0
+15	258	7608317917058759	CMakeFiles/vk5_tht.dir/notifikaattori.cpp.obj	6b56463fc5c65fb8
+258	343	7608317919487511	vk5_tht.exe	af82cfc28e1e4755

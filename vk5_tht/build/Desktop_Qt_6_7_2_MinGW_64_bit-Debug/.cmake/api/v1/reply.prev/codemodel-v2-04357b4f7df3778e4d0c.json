@@ -1,0 +1,61 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-81b81189ce3a7c0cb044.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "vk5_tht",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "vk5_tht::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vk5_tht-Debug-2e3772b20da0b2a84b18.json",
+					"name" : "vk5_tht",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Taavetti/Documents/GitHub/Olio-kevat2025/vk5_tht/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/Taavetti/Documents/GitHub/Olio-kevat2025/vk5_tht"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
